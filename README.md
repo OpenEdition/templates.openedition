@@ -29,3 +29,7 @@ Pour plus d’informations sur l’installation des Modèles sur Mac : http://ww
 ## Installation sur Windows
 
 Sur votre ordinateur sous Windows suivez la procédure d'installation indiquée à cette adresse : http://www.maisondesrevues.org/300
+
+---
+
+**Auteures** (version 5.2) : Edith Cannet, Gwenn Dossmann, Bianca Tangaro
