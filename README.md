@@ -1,6 +1,6 @@
 # Modèles de stylage compatibles avec Word MS Office 2016 et + sur macOS et Windows pour le stylage Lodel
 
-Le modèle de document ici distribué sert à la préparation de documents pour la publication électronique sur Lodel. Il est destiné à être utilisé uniquement sur Microsoft Word (Office) 2016 et + sur Mac et PC (Windows). Le fichier est nommé ainsi :  **oe_template_fr.dotm**.
+Le modèle de document ici distribué sert à la préparation de documents pour la publication électronique sur Lodel. Il est destiné à être utilisé uniquement sur Microsoft Word (Office) 2016 et + sur Mac et PC (Windows). Le fichier est nommé ainsi :  **oe_modele_fr.dotm**.
 
 Une version en anglais nommée  **oe_template_en.dotm** est également disponible : elle est compatible avec toute version linguistique de Word. 
 
@@ -13,7 +13,7 @@ Une version en anglais nommée  **oe_template_en.dotm** est également disponibl
 
 ## Installation sur MacOS
 
-Sur votre ordinateur Mac, placez le modèle  **oe_template_fr.dotm** dans :
+Sur votre ordinateur Mac, placez le modèle  **oe_modele_fr.dotm** dans :
 
 - Finder → Users → nom de l'utilisateur → Bibliothèque (Library). 
   Si l’entrée est masquée, maintenez la touche Alt (Option) enfoncée lorsque vous utilisez le menu *Aller*. Vous verrez apparaître ainsi le dossier Bibliothèque dans le menu. 
@@ -32,4 +32,4 @@ Sur votre ordinateur sous Windows suivez la procédure d'installation indiquée 
 
 ---
 
-**Auteures** (version 5.2) : Edith Cannet, Gwenn Dossmann, Bianca Tangaro
+**Auteures** (version 5.2) : Edith Cannet (Pôle Document numérique – MRSH), Gwenn Dossmann (OpenEdition) et Bianca Tangaro (OpenEdition)
