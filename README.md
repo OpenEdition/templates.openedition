@@ -7,7 +7,7 @@ Une version en anglais nommée  **oe_template_en.dotm** est également disponibl
 ## Compatibilité 
 
 * Mac : Word 2016, 2019 (Office 365)
-* Windows : Word 2010, 2016, 2019 (Office 365)
+* Windows : Word 2010, 2013, 2016, 2019 (Office 365)
 
 > **AVERTISSEMENT**: Pour Mac Word 2011 et précédents, ainsi que pour Windows Word 2007 et précédents : utiliser la  version 4.0.10 disponible à l'adresse : https://github.com/OpenEdition/revuesorg_word_templates/releases
 
@@ -32,4 +32,7 @@ Sur votre ordinateur sous Windows suivez la procédure d'installation indiquée 
 
 ---
 
-**Auteures** (version 5.2) : Edith Cannet (Pôle Document numérique – MRSH), Gwenn Dossmann (OpenEdition) et Bianca Tangaro (OpenEdition)
+**Auteures** 
+
+- (version 5.2) : Edith Cannet (Pôle Document numérique – MRSH), Gwenn Dossmann (OpenEdition) et Bianca Tangaro (OpenEdition)
+- (version 5.3) : Gwenn Dossmann (OpenEdition) et Bianca Tangaro (OpenEdition)
