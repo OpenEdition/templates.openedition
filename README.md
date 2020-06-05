@@ -36,3 +36,4 @@ Sur votre ordinateur sous Windows suivez la procédure d'installation indiquée 
 
 - (version 5.2) : Edith Cannet (Pôle Document numérique – MRSH), Gwenn Dossmann (OpenEdition) et Bianca Tangaro (OpenEdition)
 - (version 5.3) : Gwenn Dossmann (OpenEdition) et Bianca Tangaro (OpenEdition)
+- (version 5.3.1) : Bianca Tangaro (OpenEdition)
