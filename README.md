@@ -11,7 +11,7 @@ Une version en anglais nommée  **oe_template_en.dotm** est également disponibl
 
 ## Compatibilité des modèles de documents (oe_modele_fr.dotm; oe_template_en.dotm)
 
-* Mac : Word 2016, 2019, 2020 (Office 365)
+* Mac : Word 2016, 2019 (Office 365)
 * Windows : Word 2010, 2013, 2016, 2019 (Office 365)
 
 >
@@ -21,7 +21,7 @@ Une version en anglais nommée  **oe_template_en.dotm** est également disponibl
 Des compléments macros sont également distribués en deux fichiers distincts : oe_macros_mac.dotm et oe_macros_win.dotm.  Il s'agit de procédures automatisées proposées pour faciliter la préparation des documents destinés à être publiés sur Lodel.
 
 ## Compatibilité des compléments Macros :
-- oe_macros_mac.dotm : Word 2016, 2019, 2020 sur MacOS
+- oe_macros_mac.dotm : Word 2016, 2019 sur MacOS
 - oe_macros_win.dotm : Word 2016 sur Windows
 
 
@@ -39,14 +39,14 @@ Sur votre ordinateur Mac, placez le modèle  **oe_modele_fr.dotm** ou **oe_templ
 Si le modèle de document et les macros sont bien attachés, un onglet *LodelStyles* ainsi qu'un onglet *Macros OpenEdition* vont s'ajouter aux onglets du ruban bleu de Word. S'ils ne s'affichent pas, ils sont masqués par la double flèche dans le ruban bleu de Word.
 
 
-Pour plus d’informations sur l’installation des Modèles sur Mac : http://www.maisondesrevues.org/973
+Pour plus d’informations sur l’installation des Modèles sur Mac : https://objs-fr.hypotheses.org/697
 
 
 
 ## Installation sur Windows
 
 
-Sur votre ordinateur sous Windows suivez la procédure d'installation indiquée à cette adresse : http://www.maisondesrevues.org/300
+Sur votre ordinateur sous Windows suivez la procédure d'installation indiquée à cette adresse : https://objs-fr.hypotheses.org/698
 
 ## Raccourcis clavier sur MacOS et Windows
 
@@ -83,5 +83,7 @@ Sur votre ordinateur sous Windows suivez la procédure d'installation indiquée 
 *(version 5.3.1) : Bianca Tangaro (OpenEdition)
 
 *(version 5.4) : Bianca Tangaro (OpenEdition)
+
+*(version 5.5) : Gwenn Dossmann (OpenEdition)
 
 
